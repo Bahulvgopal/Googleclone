@@ -48,7 +48,7 @@ body {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    background: orange; /* Changed to orange color */
+    background: yellow; /* Changed to orange color */
     border-radius: 50%;
     font-size: 2rem;
     color: white;
